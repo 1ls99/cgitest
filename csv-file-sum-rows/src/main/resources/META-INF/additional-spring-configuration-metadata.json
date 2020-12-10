@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "from_path",
+    "type": "java.lang.String",
+    "description": "Please set the input folder location for 'from_path'"
+  },
+  {
+    "name": "to_path",
+    "type": "java.lang.String",
+    "description": "Please set the output folder location for 'to_path'"
+  },
+  {
+    "name": "to_file_extension",
+    "type": "java.lang.String",
+    "description": "The desired extension for to file 'to_file_extension'"
+  }
+]}
